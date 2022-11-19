@@ -1,0 +1,31 @@
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\bin\Debug\net7.0\appsettings.json
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\bin\Debug\net7.0\New WebbApp.staticwebassets.runtime.json
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\bin\Debug\net7.0\New WebbApp.exe
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\bin\Debug\net7.0\New WebbApp.deps.json
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\bin\Debug\net7.0\New WebbApp.runtimeconfig.json
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\bin\Debug\net7.0\New WebbApp.dll
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\bin\Debug\net7.0\New WebbApp.pdb
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.csproj.AssemblyReference.cache
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.AssemblyInfoInputs.cache
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.AssemblyInfo.cs
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.csproj.CoreCompileInputs.cache
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.RazorAssemblyInfo.cache
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.RazorAssemblyInfo.cs
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\staticwebassets\msbuild.New WebbApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\staticwebassets\msbuild.build.New WebbApp.props
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.New WebbApp.props
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.New WebbApp.props
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\scopedcss\bundle\New WebbApp.styles.css
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\scopedcss\projectbundle\New WebbApp.bundle.scp.css
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.dll
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\refint\New WebbApp.dll
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.pdb
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\New WebbApp.genruntimeconfig.cache
+C:\Users\ajuli\Desktop\WTAMU Classes\Tutorials\New WebbApp\obj\Debug\net7.0\ref\New WebbApp.dll
